@@ -11,8 +11,13 @@
             "id": "814ca67b68befe87",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pranavdhoolia.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -98,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pranavdhoolia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pranavdhoolia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,6 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "pranavdhoolia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,11 +250,21 @@
       "workbench-obsidian:Workbench": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "publish:Publish changes...": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "814ca67b68befe87",
   "lastOpenFiles": [
+    "IMG_6354.jpg",
+    "me.jpeg",
+    "pranavdhoolia.md",
+    "Applyable.com.au.md",
+    "Blogs.md",
+    "Home.md",
+    "media",
+    "media/WhatsApp Video 2023-10-01 at 1.08.16 PM.mp4",
     "Thesis (Brainstorming).md",
     "Methodology (Rough).md",
     "Thesis (Outline).md",
