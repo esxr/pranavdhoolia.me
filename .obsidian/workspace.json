@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Applyable Piece By Piece - Main Flow.md",
+                "file": "Applyable Piece By Piece - Cover Letter Generator.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Applyable Piece By Piece - Main Flow.md",
+                "file": "Applyable Piece By Piece - Cover Letter Generator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Applyable Piece By Piece - Main Flow.md",
+                "file": "Applyable Piece By Piece - Cover Letter Generator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Applyable Piece By Piece - Main Flow.md",
+                "file": "Applyable Piece By Piece - Cover Letter Generator.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -271,8 +271,9 @@
   },
   "active": "9014d0678580e5a4",
   "lastOpenFiles": [
-    "Applyable.com.au.md",
     "Applyable Piece By Piece - Main Flow.md",
+    "Applyable Piece By Piece - Cover Letter Generator.md",
+    "Applyable.com.au.md",
     "pranavdhoolia.md",
     "IMG_6354.jpg",
     "me.jpeg",
